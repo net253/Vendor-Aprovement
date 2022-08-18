@@ -1,0 +1,25 @@
+export const loginPath = "https://rct-dev.com/vrs/apiV2/login.php";
+export const logoutPath = "https://rct-dev.com/vrs/apiV2/logout.php";
+export const regisPath = "https://rct-dev.com/vrs/apiV2/register.php";
+export const resetPass = "https://rct-dev.com/vrs/apiV2/reset-pw.php";
+export const changePass = "https://rct-dev.com/vrs/apiV2/change-pw.php";
+export const approvePath = "https://rct-dev.com/vrs/apiV2/approve.php";
+export const considerPath = "https://rct-dev.com/vrs/apiV2/consider.php";
+export const overallPath = "https://rct-dev.com/vrs/apiV2/overall.php";
+export const editPath = "https://rct-dev.com/vrs/apiV2/edit.php";
+export const authPath = "https://rct-dev.com/vrs/apiV2/authen.php";
+export const historyPath = "https://rct-dev.com/vrs/apiV2/history.php";
+export const userPath = "https://rct-dev.com/vrs/apiV2/users.php";
+
+// export const loginPath = "/vrs/apiV2/login.php";
+// export const logoutPath = "/vrs/apiV2/logout.php";
+// export const regisPath = "/vrs/apiV2/register.php";
+// export const resetPass = "/vrs/apiV2/reset-pw.php";
+// export const changePass = "/vrs/apiV2/change-pw.php";
+// export const approvePath = "/vrs/apiV2/approve.php";
+// export const considerPath = "/vrs/apiV2/consider.php";
+// export const overallPath = "/vrs/apiV2/overall.php";
+// export const editPath = "/vrs/apiV2/edit.php";
+// export const authPath = "/vrs/apiV2/authen.php";
+// export const historyPath = "/vrs/apiV2/history.php";
+// export const userPath = "/vrs/apiV2/users.php";

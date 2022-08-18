@@ -1,0 +1,60 @@
+* {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.font-thai {
+  font-family: "Noto Serif Thai", serif;
+}
+
+.SNC {
+  font-family: "lilyUPC";
+  src: url("./components/font/LilyUPC_Bold_Italic.ttf");
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+}
+
+.pageFooter {
+  position: absolute;
+  page-break-after: always;
+  font-size: 10px;
+  opacity: 0.6;
+  width: 98%;
+  text-align: end;
+}
+
+.mt-1 {
+  margin-top: 98vh;
+}
+.mt-2 {
+  margin-top: 74vh;
+}
+
+.my-swal {
+  z-index: 9999 !important;
+}
+
+.blink {
+  animation: blinker 1.4s infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0.2;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
